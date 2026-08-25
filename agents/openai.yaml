@@ -1,0 +1,4 @@
+interface:
+  display_name: "르셀루 힉스필드 영상"
+  short_description: "르셀루 색상 조합 릴스의 이미지·음성·영상을 단계별로 제작"
+  default_prompt: "Use $lecellu-higgsfield-supercomputer to produce the packaged Le Cellu vertical reel after showing the plan and credit estimate."
